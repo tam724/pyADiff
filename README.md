@@ -1,7 +1,7 @@
 # pyADiff: A simple, pure python algorithmic differentiation package
 
 [![Documentation Status](https://readthedocs.org/projects/pyadiff/badge/?version=latest)](https://pyadiff.readthedocs.io/en/latest/?badge=latest)
-
+[![PyPI version](https://badge.fury.io/py/pyADiff.svg)](https://badge.fury.io/py/pyADiff)
 
 `pyADiff` is a (yet) very basic algorithmic differentiation package, which implements forward and adjoint/reverse mode differentiation. If you are looking for a fully-featured and faster library, have a look at [google/jax](https://github.com/google/jax), [autograd](https://github.com/HIPS/autograd) or [dco/c++](https://www.stce.rwth-aachen.de/research/software/dco/cpp) (or many more),  but if you are interested in a package where you are able to quickly "look under the hood", you may be right here.
 
@@ -42,7 +42,9 @@ For more sophisticated examples see the [Documentation](#documentation) or have 
 
 ## Installation
 ### Installation using pip
-*TODO*
+```shell
+> pip install pyADiff
+```
 
 ### Installation from source
 This will clone the repository and install the `pyADiff` package using the `setup.py` script.
