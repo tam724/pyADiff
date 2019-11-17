@@ -27,7 +27,7 @@ print("f'({}) = {}".format(x, dy))
 ```
 Which corresponds to the evaluation of the analytic gradient at $(x_0, x_1) = (0.5, 2)$.
 
-For more sophisticated examples see the [examples directory](./examples).
+For more sophisticated examples see the [Documentation](#documentation) or have a look at the [.ipynb notebooks](/docs/source/documentation/examples)
 
 ## Installation
 ### Installation using pip
@@ -36,8 +36,8 @@ For more sophisticated examples see the [examples directory](./examples).
 ### Installation from source
 This will clone the repository and install the `pyADiff` package using the `setup.py` script.
 ```shell
-> git clone https://github.com/tam724/pyadiff
-> python pyadiff/setup.py install
+> git clone https://github.com/tam724/pyADiff
+> python pyADiff/setup.py install
 ```
 
 ## Documentation
@@ -45,4 +45,4 @@ This will clone the repository and install the `pyADiff` package using the `setu
 
 ## References
 ### Algorithmic Differentiation:
-* Uwe Naumann, *Lecture Computational Differentiation*, WS2019/20
+* Uwe Naumann, *Lecture Computational Differentiation*, RWTH Aachen

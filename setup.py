@@ -16,7 +16,7 @@ setup(
     description='A simple, pure python algorithmic differentiation package',
     long_description=readme,
     long_description_content_type="text/markdown",
-    url='https://github.com/tam724/',
+    url='https://github.com/tam724/pyADiff',
     include_package_data=True,
     license="GNU GPLv3 ",
     packages=find_packages(exclude=('examples', 'tests', 'doc')),
