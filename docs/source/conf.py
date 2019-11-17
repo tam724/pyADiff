@@ -25,7 +25,7 @@ now = datetime.datetime.now()
 copyright = '{}, {}'.format(now.year, author)
 
 # The full version, including alpha/beta/rc tags
-release = ''
+release = '0.1.1'
 
 master_doc = 'index'
 
