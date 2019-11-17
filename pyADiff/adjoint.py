@@ -1,5 +1,6 @@
 import numpy as np
 
+import pyADiff
 from pyADiff.exceptions import NotDifferentiableExeption
 from pyADiff.math_functions import *
 

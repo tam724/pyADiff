@@ -14,7 +14,6 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('../..'))
 
-from pyADiff import __version__
 import datetime
 
 
@@ -26,7 +25,7 @@ now = datetime.datetime.now()
 copyright = '{}, {}'.format(now.year, author)
 
 # The full version, including alpha/beta/rc tags
-release = __version__
+release = ''
 
 
 # -- General configuration ---------------------------------------------------
