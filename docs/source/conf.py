@@ -27,6 +27,7 @@ copyright = '{}, {}'.format(now.year, author)
 # The full version, including alpha/beta/rc tags
 release = ''
 
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
