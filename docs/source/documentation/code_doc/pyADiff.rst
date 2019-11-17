@@ -1,0 +1,4 @@
+pyADiff
+=======
+
+.. automodule:: pyADiff
