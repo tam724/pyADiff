@@ -54,7 +54,7 @@ class ADTypeT(object):
         return str(self.value) + '+d' + str(self.derivative)
 
     def __str__(self):
-        return set(self.value)
+        return str(self.value)
 
     def __add__(self, other):
         try:
