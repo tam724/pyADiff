@@ -52,13 +52,12 @@ Which corresponds to the evaluation of the analytic gradient.
 
 Motivation
 ----------
-My motivation to start this project arose from curiosity while listening to the lecture `Computational Differentiation`_ by `Uwe Naumann`_ at `RWTH Aachen University`_.
+My motivation to start this project arose from curiosity while listening to the lecture `Computational Differentiation`_ by Prof. Naumann at `RWTH Aachen University`_.
 So basically I tried to understand the concepts from the lecture by implementing them by myself.
 In the end I was (positively) surprised with the outcome and decided to bundle it in a python package.
 Additionaly this gave me the chance to learn about python packaging, distributing, documentation, ...
 
 .. _`Computational Differentiation`: https://www.stce.rwth-aachen.de/teaching/lectures/computational-differentiation
-.. _`Uwe Naumann`: https://www.stce.rwth-aachen.de/people/uwe-naumann
 .. _`RWTH Aachen University`: https://www.rwth-aachen.de/
 
 Indices and tables
